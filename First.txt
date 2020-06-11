@@ -1,10 +1,14 @@
 first
-second
+second first
 third
+third first
 second fourth
 fourth
 fifth
+fifth first
 seventh
 second seventh
 tenth
+tenth first
 new things on second
+add new word as first
